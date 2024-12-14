@@ -14,3 +14,9 @@ server_scripts {
 	'config.lua',  
 	'switchjob.lua'  
 }
+
+dependencies {
+    'oxmysql',   
+	'ox_lib', 
+    'es_extended',  
+}
