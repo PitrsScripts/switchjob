@@ -15,7 +15,7 @@ Config.SwitchMessage = 'You are now employed as %s.'
 
 Config.Discord = {
 
-	Enable = true,
+	Enable = true, --true/false
 	Message = '**%s** changed his job from **%s** to **%s**.',
 	Webhook = '',
 	Name = 'CHANGEJOB | LOG',
